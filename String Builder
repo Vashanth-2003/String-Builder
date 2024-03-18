@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) 
+	{
+	    StringBuilder Terv=new StringBuilder("Top ");
+	    Terv.append("Freshers");
+		System.out.println(Terv);
+	}
+}
